@@ -1,0 +1,14 @@
+{
+  "name": "react-redux-todo",
+  "version": "1.0.0",
+  "description": "first react redux app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Kristin Mayer",
+  "license": "ISC"
+}
